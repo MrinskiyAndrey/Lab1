@@ -12,20 +12,20 @@
 #
 # **Ответы на дополнительные вопросы:**
 ###
-#### **команда для сборки приложения в Maven из командной строки:**
-#### из директории где находится pom.xml набрать  "mvn package" без ковычек
+### ***команда для сборки приложения в Maven из командной строки:***
+#### - из директории где находится pom.xml набрать  "mvn package" без ковычек
 ###
-#### команда для сборки docker-образа из командной строки:
-#### docker build . -t myapi:latest
+### ***команда для сборки docker-образа из командной строки:***
+#### - docker build . -t myapi:latest
 ###
-#### команда для запуска docker-контейнера из docker-образа с указанием маппинга портов:
-#### docker run -p 8080:8080 myapi:latest
+### ***команда для запуска docker-контейнера из docker-образа с указанием маппинга портов:***
+#### - docker run -p 8080:8080 myapi:latest
 ###
-#### 4 curl (или больше) для обращения к ендпоинтам приложения:
-#### http://localhost:8080/api/v1/product/1
-#### http://localhost:8080/api/v1/product/2
-#### http://localhost:8080/api/v1/product/3
-#### http://localhost:8080/api/v1/product/4
+### ***4 curl (или больше) для обращения к ендпоинтам приложения:***
+#### - http://localhost:8080/api/v1/product/1
+#### - http://localhost:8080/api/v1/product/2
+#### - http://localhost:8080/api/v1/product/3
+#### - http://localhost:8080/api/v1/product/4
 ###
-#### curl для обращения к ендпоинту, возвращающему hostname:
-#### http://localhost:8080/api/v1/status
+### ***curl для обращения к ендпоинту, возвращающему hostname:***
+#### - http://localhost:8080/api/v1/status
