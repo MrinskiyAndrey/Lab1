@@ -45,5 +45,5 @@
 https://app.travis-ci.com/MrinskiyAndrey/simpleApi3.svg?branch=master
 
 #
-#### Приложение так и не смог задиплоить в хироку, ниже лог ошибок
+#### Приложение так и не смог задиплоить в хироку, ниже лог ошибок (из IDE компилиться и работает исправно)
 https://dashboard.heroku.com/apps/simpleapi3/activity/builds/45e39944-8d82-4a32-880c-c2040eedd30a
