@@ -32,3 +32,16 @@
 ###
 ### ***curl для обращения к ендпоинту, возвращающему hostname:***
 #### - http://localhost:8080/api/v1/status
+
+
+#
+# Лабораторная работа №3: CI/CD и деплой приложения в Heroku
+
+## Целью лабораторной работы является знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
+
+
+### Travis CI badge
+
+https://app.travis-ci.com/MrinskiyAndrey/simpleApi3.svg?branch=master
+
+
