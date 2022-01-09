@@ -42,7 +42,7 @@
 
 ### Travis CI badge
 
-https://app.travis-ci.com/MrinskiyAndrey/simpleApi3.svg?branch=master
+https://app.travis-ci.com/github/MrinskiyAndrey/simpleApi3
 
 #
 #### Приложение так и не смог задиплоить в хироку, ниже лог ошибок (из IDE компилиться и работает исправно)
