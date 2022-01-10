@@ -46,4 +46,6 @@
 
 #
 #### Приложение так и не смог задиплоить в хироку, ниже лог ошибок (из IDE компилиться и работает исправно)
-https://dashboard.heroku.com/apps/simpleapi3/activity/builds/45e39944-8d82-4a32-880c-c2040eedd30a
+
+![Снимок экрана от 2022-01-10 19-25-43](https://user-images.githubusercontent.com/97047164/148801348-c5ee38df-8f00-449b-b49b-814a420758b8.png)
+
