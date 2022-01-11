@@ -42,7 +42,7 @@
 
 ### Travis CI badge
 
-[![Build Status](https://app.travis-ci.com/MrinskiyAndrey/simpleApi3.svg?branch=master)](https://app.travis-ci.com/MrinskiyAndrey/simpleApi3)
+[![Build Status](https://app.travis-ci.com/MrinskiyAndrey/Sportfood.svg?branch=main)](https://app.travis-ci.com/MrinskiyAndrey/Sportfood)
 
 #
 #### Приложение так и не смог задиплоить в хироку, ниже лог ошибок (из IDE компилиться и работает исправно)
