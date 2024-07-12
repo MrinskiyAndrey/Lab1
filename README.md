@@ -45,7 +45,5 @@
 [![Build Status](https://app.travis-ci.com/MrinskiyAndrey/Sportfood.svg?branch=main)](https://app.travis-ci.com/MrinskiyAndrey/Sportfood)
 
 #
-#### Приложение так и не смог задиплоить в хироку, ниже лог ошибок (из IDE компилиться и работает исправно)
 
-![Снимок экрана от 2022-01-10 19-25-43](https://user-images.githubusercontent.com/97047164/148801348-c5ee38df-8f00-449b-b49b-814a420758b8.png)
 
